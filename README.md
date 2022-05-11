@@ -3,7 +3,7 @@ Something to mod your Nintendo Switch Online.
 If you need to mod your __Nintendo Switch Online Emulator__, use the __script made by Markus95__ and you need this :
 * Nes (v6.10)
 * Super nintendo (v3.1.0)
-* Nintendo 64 (v1.0) _only v1.0 work now..._
+* Nintendo 64 (v1.0) _only v1.0 work for now..._
 * Megadrive (2.0.1)
 
 ## Nintendo 64
