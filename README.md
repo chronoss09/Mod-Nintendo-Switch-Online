@@ -31,6 +31,7 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
 
 ## GameBoy
 * Covers
+* Games logo
 
 ## GameBoy Colors
 * Covers
