@@ -5,6 +5,7 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
 * Super nintendo (v3.1.0)
 * Nintendo 64 (v1.0) _only v1.0 work for now..._
 * Megadrive (2.0.1)
+* Switch Saturn game __"Cotton Boomerang Saturn Tribute[010077001526E000][US][v0]"__
 
 ## Nintendo 64
 * Covers for USA/EUR/JAP game
@@ -16,13 +17,16 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
   * PlayerIcon Disabled
 
 ## Super Nintendo
-*
+* Covers
+* 3D Covers
 
 ## Nintendo Nes
-*
+* Covers
+* 3D Covers
 
 ## SEGA MegaDrive
-*
+* Covers
+* 3D Covers
 
 ## GameBoy Advance (use with sloop)
 * Title screen
@@ -35,3 +39,8 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
 
 ## GameBoy Colors
 * Covers
+
+## Saturn
+* Covers
+* Boot Logo
+* Wallpapers
