@@ -24,10 +24,6 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
 * Covers
 * 3D Covers
 
-## SEGA MegaDrive
-* Covers
-* 3D Covers
-
 ## GameBoy Advance (use with sloop)
 * Title screen
 * Covers
@@ -40,7 +36,11 @@ If you need to mod your __Nintendo Switch Online Emulator__, use the __script ma
 ## GameBoy Colors
 * Covers
 
-## Saturn
+## SEGA MegaDrive
+* Covers
+* 3D Covers
+
+## SEGA Saturn
 * Covers
 * Boot Logo
 * Wallpapers
