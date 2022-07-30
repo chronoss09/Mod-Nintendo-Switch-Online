@@ -1,7 +1,0 @@
-# General Settings (ALL GAMES)
-
---region-dir=SIEA
-#--sim-analog-pad=0x2020
-#--bios=SCPH1001.bin
---ctlanalog=on
---xobuttonmode=ocancel
